@@ -80,7 +80,7 @@ The project focuses on structured ETL, clean modeling, and business-question-dri
 
 
 
-## 🎯 Business Questions Answered
+## Business Questions Answered
 - What are the top 3 products by revenue and volume?
 - Which hours of the day generate the most revenue?
 - Which days of the week are strongest and weakest?
