@@ -108,12 +108,6 @@ The project focuses on structured ETL, clean modeling, and business-question-dri
 - Product performance ranking
 - Interactive filtering
 
----
-
-## Dashboard Preview
-(Add screenshots in /screenshots and link here)
-
----
 
 ## Skills Demonstrated
 - Transaction data cleaning
@@ -122,7 +116,7 @@ The project focuses on structured ETL, clean modeling, and business-question-dri
 - Revenue pattern detection
 - Business-driven KPI selection
 
----
+
 # Power BI AdventureWorks Bike Sales Performance Dashboard
 
 ## Project Overview
@@ -130,7 +124,6 @@ This Power BI dashboard analyzes the AdventureWorks sales dataset with a focus o
 
 The goal is to answer core commercial questions a data analyst should address in a sales performance review.
 
----
 
 ## ETL & Data Preparation
 - Data source: AdventureWorks sample dataset
@@ -144,7 +137,6 @@ The goal is to answer core commercial questions a data analyst should address in
   - Added calculated columns for margins and categories
 - Modeling: Star schema with Sales fact and dimension tables
 
----
 
 ## Business Questions Answered
 - Which bike categories generate the most revenue?
@@ -154,7 +146,6 @@ The goal is to answer core commercial questions a data analyst should address in
 - Which products drive the highest margins?
 - How does average order value change over time?
 
----
 
 ## Key KPIs
 - Total bike revenue
@@ -164,7 +155,6 @@ The goal is to answer core commercial questions a data analyst should address in
 - Margin by category
 - Average order value
 
----
 
 ## Tools & Techniques
 - Power BI Desktop
@@ -174,12 +164,10 @@ The goal is to answer core commercial questions a data analyst should address in
 - Ranking and contribution analysis
 - Drill-down hierarchies
 
----
 
 ## Dashboard Preview
 (Add screenshots in /screenshots and link here)
 
----
 
 ## Skills Demonstrated
 - Dimensional data modeling
@@ -187,6 +175,3 @@ The goal is to answer core commercial questions a data analyst should address in
 - Sales performance analytics
 - Geographic analysis
 - Executive KPI reporting
-
-
-
