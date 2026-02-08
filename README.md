@@ -171,7 +171,7 @@ The goal is to answer core commercial questions a data analyst should address in
 ## Skills Demonstrated
 - Dimensional data modeling
 
-# Power Automate — SharePoint Ticket Completion Notifications
+# Power Automate SharePoint Ticket Completion Notifications
 
 ## Overview
 This project implements a Power Automate workflow that sends automatic Microsoft Teams notifications to managers when a task ticket in a SharePoint project board is moved to the **Done** status.
@@ -207,7 +207,7 @@ This automation is used alongside a Power BI project management dashboard built 
 
 
 ## Author
-Bilal El Janoudi— Power BI & Power Platform Projects
+Bilal El Janoudi: Power BI & Power Platform Projects
 
 - Time intelligence DAX
 - Sales performance analytics
